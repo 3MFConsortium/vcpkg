@@ -3417,7 +3417,7 @@
       "port-version": 2
     },
     "glib": {
-      "baseline": "2.86.3",
+      "baseline": "2.86.4",
       "port-version": 0
     },
     "glib-networking": {
@@ -6289,7 +6289,7 @@
       "port-version": 0
     },
     "mcap": {
-      "baseline": "2.1.2",
+      "baseline": "2.1.3",
       "port-version": 0
     },
     "mchehab-zbar": {
@@ -9174,10 +9174,6 @@
     },
     "skyr-url": {
       "baseline": "3.0.0",
-      "port-version": 0
-    },
-    "slang": {
-      "baseline": "10.0",
       "port-version": 0
     },
     "sleef": {
